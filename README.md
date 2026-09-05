@@ -134,7 +134,7 @@ This project is licensed under the MIT License.
 
 📬 Contact
 
-Author: Your Name Email: your.email@example.com LinkedIn: your-linkedin
+Author: velan k Email: velank359@gmail.com 
 
 Appendix A: Python Source Code (rfm_analysis.py)
 python
